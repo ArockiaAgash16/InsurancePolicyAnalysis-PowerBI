@@ -40,7 +40,7 @@ The solution leverages Power Query Text Analytics for sentiment scoring, enablin
 
 * Claim Amount by Policy Type in a detailed summary table
 
-![image](https://github.com/user-attachments/assets/c9e4f0a0-a256-4576-b0de-54c88478bd75)
+![image](https://github.com/user-attachments/assets/ef0c2ebf-2d5a-417a-af9b-b34c81611e2f)
 
 ### 2️⃣ Drill-Through Filter (Tab 2)
 
