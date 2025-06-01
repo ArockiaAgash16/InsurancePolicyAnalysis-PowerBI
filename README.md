@@ -30,7 +30,7 @@ The solution leverages Power Query Text Analytics for sentiment scoring, enablin
 
 * Gender-wise customer counts (Multi-row Card)
 
-* Number of claims by claim status (Rejected, Settled, Pending)
+* Number of claims by claim status (Waterfall Chart)
 
 * Premium Amount by Policy Type (Bar Chart)
 
