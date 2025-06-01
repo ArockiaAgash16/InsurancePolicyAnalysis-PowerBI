@@ -26,9 +26,9 @@ The solution leverages Power Query Text Analytics for sentiment scoring, enablin
 
 ### 1️⃣ Major Metrics (Tab 1)
 
-* KPIs: Premium Amount, Coverage Amount, Claim Amount
+* KPIs: Premium Amount, Coverage Amount, Claim Amount 
 
-* Gender-wise customer counts
+* Gender-wise customer counts (Multi-row Card)
 
 * Number of claims by claim status (Rejected, Settled, Pending)
 
