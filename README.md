@@ -34,13 +34,13 @@ The solution leverages Power Query Text Analytics for sentiment scoring, enablin
 
 * Premium Amount by Policy Type (Bar Chart)
 
-* Premium Amount by Age Group (Line Chart)
+* Claim Amount by Age Group (Line Chart)
 
 * Active/Inactive Policies distribution (Donut Chart)
 
 * Claim Amount by Policy Type in a detailed summary table
 
-![image](https://github.com/user-attachments/assets/ef0c2ebf-2d5a-417a-af9b-b34c81611e2f)
+![image](https://github.com/user-attachments/assets/9e5c3e28-ed05-4ee1-9ed8-86f989cc5a3d)
 
 ### 2️⃣ Drill-Through Filter (Tab 2)
 
